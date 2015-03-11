@@ -1,0 +1,9 @@
+{{mower}}
+<div id="game">
+    <div ng-repeat="square in grid track by $index" class="square" ng-style="square.css" ng-class="{'grass': square.isGrass, 'mowed': square.isMowed}" ng-click="setNewPath(square.x, square.y)">
+        <div class="inner"></div>
+    </div>
+    <div class="mower" ng-style="mower.css" ng-class="{'victory': victory}">
+        <div class="inner"></div>
+    </div>
+</div>

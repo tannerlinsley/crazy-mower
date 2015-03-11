@@ -1,0 +1,1701 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"grid",
+				"gridBoxSize"
+			],
+			[
+				"transition",
+				"transition:   (property)"
+			],
+			[
+				"box-sizing",
+				"-webkit-box-sizing:   (property)"
+			],
+			[
+				"$route",
+				"$routeParams	AngularJS(DI)"
+			],
+			[
+				"$rout",
+				"$routeParams	AngularJS"
+			],
+			[
+				"applied",
+				"appliedKeywordObjects"
+			],
+			[
+				"resolve",
+				"resolveProfileID"
+			],
+			[
+				"sidebar",
+				"sidebarRightWidth"
+			],
+			[
+				"side",
+				"sidebarLeftBoxHeight"
+			],
+			[
+				"left",
+				"sidebarLeftFlyoutWidth"
+			],
+			[
+				"sideb",
+				"sidebarLeftFlyoutWidth"
+			],
+			[
+				"navbar",
+				"navbarHeight"
+			],
+			[
+				"ul",
+				"ul	ul - Placeholder"
+			],
+			[
+				"dimension",
+				"dimension"
+			],
+			[
+				"is",
+				"isMultiReduce"
+			],
+			[
+				"stacks",
+				"stacksNegative"
+			],
+			[
+				"stack",
+				"stackSelectOptions"
+			],
+			[
+				"needs",
+				"needsRefresh"
+			],
+			[
+				"last",
+				"lastActiveDashboard"
+			],
+			[
+				"lastACtive",
+				"lastActiveProfile"
+			],
+			[
+				"keyword",
+				"keywordChartFound"
+			],
+			[
+				"new",
+				"newAppliedKeywords"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"gutter",
+				"gutterPercent"
+			],
+			[
+				"stacked",
+				"stackedGroupedBarChart"
+			],
+			[
+				"tryChil",
+				"tryChildChartLinkCount"
+			],
+			[
+				"stackedGrou",
+				"stackedGroupedBarRankGroupsByYearMonth"
+			],
+			[
+				"value",
+				"valueAccessor"
+			],
+			[
+				"rankings",
+				"rankingsLineChart"
+			],
+			[
+				"tryChart",
+				"tryChartLinkCount"
+			],
+			[
+				"ranked",
+				"ranked_1_3"
+			],
+			[
+				"ranked_",
+				"ranked_11_20"
+			],
+			[
+				"ranking",
+				"rankingsPromise"
+			],
+			[
+				"square",
+				"squareHeightPx"
+			],
+			[
+				"monitoring",
+				"monitoringConnection"
+			],
+			[
+				"fighter",
+				"fighterHealth_amount"
+			],
+			[
+				"Last",
+				"LastName"
+			],
+			[
+				"first",
+				"FirstName"
+			],
+			[
+				"order",
+				"order_id  (variable)"
+			],
+			[
+				"child",
+				"child_products_count  (variable)"
+			],
+			[
+				"desti",
+				"destinations"
+			],
+			[
+				"sharea",
+				"shareasale_order"
+			],
+			[
+				"lead",
+				"leadsourceisself"
+			],
+			[
+				"create",
+				"createVariables"
+			],
+			[
+				"webkit-border-ra",
+				"-webkit-border-top-right-radius:   (property)"
+			],
+			[
+				"rotationChan",
+				"rotationChangeAbs"
+			],
+			[
+				"adroll",
+				"adrollintegration"
+			],
+			[
+				"wp_enque",
+				"wp_enqueue_script"
+			],
+			[
+				"database",
+				"databaseLimit"
+			],
+			[
+				"cyber",
+				"cybermondayend  (variable)"
+			],
+			[
+				"listDetails",
+				"listDetailsObject"
+			],
+			[
+				"af_sync_passwords_on_",
+				"af_sync_passwords_on_profile_update"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"issue_",
+				"issue_product_cat_slug"
+			],
+			[
+				"issue",
+				"issue_sneakpeek_location"
+			],
+			[
+				"latest",
+				"latestissue"
+			],
+			[
+				"latestiss",
+				"latestissueid"
+			],
+			[
+				"box-si",
+				"box-sizing:   (property)"
+			],
+			[
+				"transform",
+				"-moz-transform:   (property)"
+			],
+			[
+				"trans",
+				"webkit-transition"
+			],
+			[
+				"pay",
+				"pv_paypal"
+			],
+			[
+				"session",
+				"sessionState"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ss js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss css",
+				"Set Syntax: CSS"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"rettify",
+				"HTMLPrettify"
+			],
+			[
+				"ss html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"ul",
+				"Snippet: ul - Placeholder"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tidy",
+				"TidyHTML"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"ss java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"switch",
+				"WordPress: Switch Database"
+			],
+			[
+				"ss javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"ss json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ss javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"mi",
+				"Minify Javascript"
+			],
+			[
+				"minify",
+				"Minify Javascript"
+			],
+			[
+				"beaut",
+				"Javascript Beautify"
+			],
+			[
+				"format",
+				"Format Code"
+			],
+			[
+				"beauty",
+				"Javascript Beautify"
+			],
+			[
+				"reiund",
+				"Tag: Remove Picked Attributes From Tags in Document"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"Reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"trailing",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"eind",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"error",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"ss ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reiond",
+				"Tag: Remove Picked Attributes From Tags in Document"
+			],
+			[
+				"ss javascrpt",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"box-sizing",
+				"Snippet: box-sizing:border-box"
+			],
+			[
+				"ss php",
+				"Set Syntax: PHP"
+			],
+			[
+				"box-sizin",
+				"Snippet: box-sizing:border-box"
+			],
+			[
+				"box-shado",
+				"Snippet: box-shadow:0 0 0 #000"
+			],
+			[
+				"reing",
+				"Preferences: Settings - Default"
+			],
+			[
+				"box-si",
+				"Snippet: box-sizing:border-box"
+			],
+			[
+				"minif",
+				"Minify Javascript"
+			],
+			[
+				"box-siz",
+				"Snippet: box-sizing:border-box"
+			],
+			[
+				"ss javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"s",
+				"Snippet: if"
+			],
+			[
+				"spell",
+				"Google Spell Check"
+			],
+			[
+				"box",
+				"Snippet: box-sizing:border-box"
+			],
+			[
+				"reoind",
+				"Tag: Remove All Tags in Document"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"mini",
+				"Minify Javascript"
+			],
+			[
+				"ss jas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss xml",
+				"Set Syntax: XML"
+			],
+			[
+				"lowercas",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lowerca",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"beut",
+				"HTMLBeautify"
+			],
+			[
+				"ss javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"img",
+				"Snippet: Image - Placeholder"
+			],
+			[
+				"ss jquery",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"ss ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"animation",
+				"Snippet: animation"
+			],
+			[
+				"autop",
+				"Autoprefix CSS"
+			],
+			[
+				"autopre",
+				"Autoprefix CSS"
+			],
+			[
+				"autopr",
+				"Autoprefix CSS"
+			],
+			[
+				"prefix",
+				"Preferences: Prefixr Key Bindings – User"
+			],
+			[
+				"trans",
+				"Snippet: transform:translate()"
+			],
+			[
+				"shadow",
+				"Snippet: box-shadow:0 0 0 #000"
+			],
+			[
+				"transform",
+				"Snippet: transform:translate()"
+			],
+			[
+				"snippet: html",
+				"Snippet: html"
+			],
+			[
+				"transition",
+				"Snippet: transition"
+			],
+			[
+				"box sizing",
+				"Snippet: box-sizing:border-box"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ss angular",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"riend",
+				"Tag: Remove Picked Tags in Document"
+			],
+			[
+				"reint",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"trailing spaced",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"prefixr",
+				"Preferences: Prefixr Key Bindings – User"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"box shadow",
+				"Snippet: box-shadow:none"
+			],
+			[
+				"border-box",
+				"Snippet: box-sizing:border-box"
+			],
+			[
+				"boxsing",
+				"Snippet: box-sizing:border-box"
+			],
+			[
+				"ss jy",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"ss pli",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ss jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"RINE",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"angular",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"traili",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trailling",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"remove all tag",
+				"Tag: Remove All Tags in Document"
+			],
+			[
+				"remove all ",
+				"Tag: Remove All Attributes From Tags in Document"
+			],
+			[
+				"indentation",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"snipp",
+				"Snippet: mousemove"
+			],
+			[
+				"snippet",
+				"Snippet: if"
+			],
+			[
+				"ss unity",
+				"Set Syntax: Unity JavaScript"
+			],
+			[
+				"errors",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"function",
+				"Snippet: Function"
+			],
+			[
+				"trailin",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"traillin",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"wordpres ",
+				"WordPress Codex: Search Selection"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"indentati",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"erros",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"snippt",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"Snippet:",
+				"Snippet: html"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssyaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"show error",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"s s css",
+				"Set Syntax: CSS"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"wordpress",
+				"WordPress: Toggle Debug"
+			],
+			[
+				"quote",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tannerlinsley/Desktop/game/js/controllers.js",
+		"/Users/tannerlinsley/Desktop/game/partials/home.html",
+		"/Users/tannerlinsley/Desktop/game/css/app.less",
+		"/Users/tannerlinsley/Desktop/game/css/app.css",
+		"/Users/tannerlinsley/Desktop/game/index.html",
+		"/Users/tannerlinsley/Desktop/game/assets/audio/ngAudio5.js",
+		"/Users/tannerlinsley/Desktop/game/js/app.js",
+		"/Users/tannerlinsley/Desktop/audio5js-master/audio5js-master/demos/angular/ngAudio5-example.html",
+		"/Users/tannerlinsley/Desktop/game/js/directives.js",
+		"/Users/tannerlinsley/Desktop/game/js/filters.js",
+		"/Users/tannerlinsley/Desktop/game/js/services.js",
+		"/Users/tannerlinsley/Desktop/game/game.sublime-project",
+		"/Users/tannerlinsley/Desktop/myApp/www/index.html",
+		"/Users/tannerlinsley/Desktop/myApp/www/js/app.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/js/services.js",
+		"/Users/tannerlinsley/Desktop/moabready/www/js/controllers.js",
+		"/Users/tannerlinsley/Desktop/moabready/config.xml",
+		"/Users/tannerlinsley/Desktop/moabready/www/js/app.js",
+		"/Users/tannerlinsley/Desktop/moabready/plugins/com.couchbase.lite.phonegap/plugin.xml",
+		"/Users/tannerlinsley/Desktop/moabready/plugins/com.couchbase.lite.phonegap/src/ios/CBLite.m",
+		"/Users/tannerlinsley/Desktop/moabready/plugins/com.couchbase.lite.phonegap/src/ios/CBLite.h",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/common/user.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/dashboard/dashboard.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/dashboard/widgets.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/dashboard/charts.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/common/crossfilters.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/layout/partials/sidebar-right.html",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/common/filters.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/assets/crossfilter-test-rankings.json",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/nozzle.less",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/less/custom.less",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/index.html",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/app.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/assets/offline/cloudflare/ajax/libs/ng-grid/ng-grid.min.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/assets/offline/cloudflare/ajax/libs/ng-grid/ng-grid.min.css",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/dashboard/partials/dashboard.html",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/common/customFilters.js",
+		"/Users/tannerlinsley/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/bootstrap/variables.less",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/less/whitelabel.less",
+		"/Users/tannerlinsley/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/tannerlinsley/Library/Application Support/Sublime Text 2/Packages/User/JavascriptBeautify.sublime-settings",
+		"/Users/tannerlinsley/Library/Application Support/Sublime Text 2/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/Users/tannerlinsley/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/less/variables.less",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/less/sidebar-right.less",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/less/ng-grid.less",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/dashboard/partials/widgets/tableFields/rankGroup.html",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/layout/layout.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/layout/partials/navbar.html",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/dashboard/partials/widgets/tableFields/rankChange.html",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/dashboard/partials/widgets/tableFields/booleanCheck.html",
+		"/Users/tannerlinsley/Desktop/moabready/www/js/filters.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/layout/partials/container.html",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/assets/lib/d3tip.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/assets/css/dc_custom.css",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/routes.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/assets/offline/cloudflare/ajax/libs/select2/select2.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/assets/lib/select2.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/layout/partials/subnavbar.html",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/assets/css/angular-datepicker.min.css",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/assets/lib/angular-date-range-picker.min.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/assets/lib/datepicker/datepicker.html",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/assets/lib/datepicker/template.html",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/assets/lib/datepicker/daterange.html",
+		"/Users/tannerlinsley/Desktop/angular-datepicker-master/angular-datepicker-master/dist/index.min.js",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/less/sidebar-left.less",
+		"/Users/tannerlinsley/Desktop/angular-datepicker-master/angular-datepicker-master/app/index.html",
+		"/Users/tannerlinsley/Desktop/angular-datepicker-master/angular-datepicker-master/app/scripts/dateRange.js",
+		"/Users/tannerlinsley/Desktop/angular-datepicker-master/angular-datepicker-master/app/scripts/datePicker.js",
+		"/Users/tannerlinsley/Desktop/angular-datepicker-master/angular-datepicker-master/app/scripts/input.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/assets/css/angular-date-range-picker.css",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/less/layout.less",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/assets/lib/angular-scroll.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/assets/lib/gridster.min.js",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/less/cobranding.less",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/layout/partials/sidebar-left.html",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/less/navbar.less",
+		"/Users/tannerlinsley/Library/Application Support/Sublime Text 2/Packages/User/absoluteCenter",
+		"/Users/tannerlinsley/github/Nozzle_Project.sublime-project",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/less/transitions.less",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/less/ui-mixins.less",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/bootstrap/navbar.less",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/bootstrap/mixins.less",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/bootstrap.less",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/index_online.html",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/less/menu-left.less",
+		"/Users/tannerlinsley/Library/Application Support/Sublime Text 2/Packages/TidyHTML5/TidyHTML.sublime-settings",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/common/common.js",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/bootstrap/mixins/buttons.less",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/common/api.prod.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/common/common-cc.js",
+		"/Users/tannerlinsley/github/NozzleApp/coral/assets/components/plugins/nicescroll/jquery.nicescroll.min.js",
+		"/Users/tannerlinsley/Library/Application Support/Sublime Text 2/Packages/User/less2css.sublime-settings",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/coral.less",
+		"/Users/tannerlinsley/github/NozzleApp/coral/assets/components/core/less/layout.less",
+		"/Users/tannerlinsley/github/NozzleApp/coral/assets/components/modules/admin/menus/menus.sidebar.kis.less",
+		"/Users/tannerlinsley/github/NozzleApp/coral/assets/components/modules/admin/menus/navbar.main.less",
+		"/Users/tannerlinsley/github/NozzleApp/coral/assets/components/core/less/menus.top.less",
+		"/Users/tannerlinsley/github/NozzleApp/README.md",
+		"/Users/tannerlinsley/github/NozzleApp/coral/assets/less/docs/module.docs.page.index.component.accordions.sidebar_type.fusion.less",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/assets/lib/coral/sidebar.kis.init.js",
+		"/Users/tannerlinsley/github/NozzleApp/nozzle/less/coral-overrides.less",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/assets/css/nozzle.css",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/common/accordian.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/dashboard/partials/filters.html",
+		"/Users/tannerlinsley/Library/Application Support/Sublime Text 2/Packages/Less2Css/less2css.sublime-settings",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/assets/css/custom.css",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/common/angular-debounce.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/common/gridster.min.js",
+		"/Users/tannerlinsley/Library/Application Support/Sublime Text 2/Packages/User/TidyHTML.sublime-settings",
+		"/Users/tannerlinsley/Desktop/angular-gridster-master/angular-gridster-master/dist/angular-gridster.min.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/dashboard/partials/widgets/config.html",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/common/d3tip.js",
+		"/Users/tannerlinsley/Desktop/untitled.html",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/assets/lib/dc.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/common/angular-dc.js",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/common/select2.js",
+		"/Users/tannerlinsley/Library/Application Support/Sublime Text 2/Packages/JsMinifier/Minifier.sublime-settings",
+		"/Users/tannerlinsley/Desktop/ui-select2-master/ui-select2-master/src/select2.js",
+		"/Users/tannerlinsley/Library/Caches/com.binarynights.ForkLift2/#8/functions.php",
+		"/Users/tannerlinsley/Library/Caches/com.binarynights.ForkLift2/#0/functions.php",
+		"/Users/tannerlinsley/Library/Caches/com.binarynights.ForkLift2/#5/functions.php",
+		"/Users/tannerlinsley/Library/Caches/com.binarynights.ForkLift2/#3/style.css",
+		"/Users/tannerlinsley/Library/Caches/com.binarynights.ForkLift2/#2/style.css",
+		"/Users/tannerlinsley/Library/Caches/com.binarynights.ForkLift2/#1/style.css",
+		"/Users/tannerlinsley/Library/Caches/com.binarynights.ForkLift2/#0/style.css",
+		"/Users/tannerlinsley/github/NozzleApp/angular/app/dashboard/partials/widgets/lineChart.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"<open files>",
+			"",
+			"<file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$scope.mower.moving",
+			" * 0.8;",
+			"pointSound",
+			"$scope.player",
+			"$scope.mower.pos.yPix + 'p",
+			"$scope.mower.pos.xPix + 'p",
+			"$scope.mower.pos.xPix",
+			"$scope.gridBoxSize",
+			"$scope.mower.pos.xPix",
+			"$scope.gridBoxSize",
+			"$scope.mower.speed",
+			"speed",
+			"pixelChange",
+			"val",
+			"y",
+			"ease",
+			"duration",
+			"pro",
+			"gridster",
+			"#",
+			"//",
+			" &&",
+			"filterType",
+			"$timeout",
+			"Crossfilters",
+			"country",
+			"maps",
+			"resolve",
+			"dashboard",
+			"ra",
+			"\"ra\": ..",
+			"\"ra\": ",
+			"rank",
+			"keyword",
+			"keywords",
+			"page",
+			"pageMin",
+			"activerAuthorUrl",
+			"Country",
+			"country",
+			"activerAuthorCircles",
+			"Country",
+			"country",
+			"activerAuthorName",
+			"Country",
+			"country",
+			"rImage",
+			"image",
+			", ",
+			"Name",
+			"from",
+			"rank",
+			"rMaps",
+			"rMap",
+			"p.rMaps",
+			"icon-",
+			" + Math.abs(input)",
+			"<=",
+			" + Math.abs(input) + ",
+			">=",
+			"icon-",
+			"-right",
+			"icon-",
+			" ' + input",
+			"'1')",
+			"('1')",
+			"\",\n    \"rs\"",
+			"\",\n    \"ra\"",
+			"\",\n    \"rs\"",
+			"\",\n    \"ra\"",
+			"\",\n    \"rs\"",
+			"\",\n    \"ra\"",
+			"video",
+			" '",
+			" ',",
+			".t",
+			".top",
+			"integratedPlaces",
+			"Integrated Places",
+			"integratedPlaces",
+			"setBool",
+			"setParentBool",
+			"rMap",
+			"map",
+			"rMap",
+			"rVideo",
+			"video",
+			"map",
+			"rMap",
+			"map",
+			"Maps",
+			"map",
+			"p.maps",
+			"maps",
+			"places",
+			"toggle",
+			"toggleP",
+			"toggle",
+			"Maps",
+			"maps",
+			"setFilter",
+			"set",
+			"max",
+			"min",
+			"country",
+			"cityZips",
+			"var new",
+			"countries",
+			"toggle",
+			".toggle",
+			"newMaps",
+			"maps",
+			".maps",
+			"maps",
+			"Places",
+			"places",
+			">\n",
+			"Keyword",
+			"Places",
+			"places",
+			"Places",
+			"setParentBool(",
+			"ool('",
+			"setParentBool('",
+			"p[prop]",
+			"cellTemplate: '/dashboard/partials/widgets/tableFields/booleanCheck.html'",
+			"p.",
+			"setBool"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"(1)",
+			",\n    \"rs\"",
+			",\n    \"ra\"",
+			",\n    \"rs\"",
+			",\n    \"ra\"",
+			",\n    \"rs\"",
+			",\n    \"ra\"",
+			"podium",
+			"].reverse(),",
+			"",
+			"\"},",
+			"",
+			"\n",
+			"jQuery(",
+			":\"",
+			"css",
+			"'Lato'",
+			"Lato",
+			"<span ng-show=\"showEdit[$index]\" ng-click=\"toggleEdit($index, row.value, true)\" class=\"toolbar-icon glyphicon glyphicon-ok\"></span>\n									<span ng-show=\"showEdit[$index]\" ng-click=\"toggleEdit($index, row.value, false)\" class=\"toolbar-icon glyphicon glyphicon-remove\"></span>",
+			"type",
+			"_id",
+			"]}},",
+			"\"name\":\"%name\",\n\"type\":\"trail\",\n\"subtype\":\"4x4\",\n\"data\": {\n\"type\": \"FeatureCollection\",",
+			"{\n\"name\":\"%name\",\n\"type\":\"trail\",\n\"subtype\":\"4x4\",\n\"data\": {\n\"type\": \"FeatureCollection\",",
+			"]}},\n",
+			"{\n\"name\":\"%name\",\n\"type\":\"trail\",\n\"subtype\":\"4x4\",\n\"data\": {\n\"type\"",
+			"{\"name\":\"%name\",\n\"type\":\"trail\",\n\"subtype\":\"4x4\",\n\"data\": {\n\"type\"",
+			"\"true\"",
+			"\"false\"",
+			":\"false\",",
+			":\"$1\"",
+			"\",\n\"---\":\"",
+			"\"name\":\"$1",
+			"",
+			"\"sites\":",
+			"name",
+			"",
+			"ress\":",
+			"\n      \"ph",
+			"",
+			"ss\":\"",
+			"'",
+			"\\'",
+			"description",
+			"\"type\": \"shop\",\n\"name\"",
+			"\"address\": \"---\",\n\"4x4\"",
+			"\"address\": \"---\",\n",
+			"false",
+			"true",
+			"rv",
+			"atv-utv",
+			"atv",
+			"dirtbikes",
+			"autos",
+			"4x4",
+			",\n\"phone\":\"",
+			",\n\"name\":\"",
+			"",
+			"website",
+			"{\n\"type\":\"campsite\",\n\"subtype\": \"commercial\",",
+			"\n\"type\":\"campsite\",\n\"subtype\": \"commercial\",",
+			"\"address\":[\"$1\",\"Moab, UT 84532\"],",
+			" ",
+			"",
+			"\"],\n      \"hookups",
+			"\"phone\": [\"",
+			"\",\"",
+			"\", \"phone\": [",
+			"\", \"address\": \"",
+			"\", \"name\": \"",
+			"",
+			"\" ",
+			"%%%\", \"website\":\"",
+			"\"false\"",
+			"false",
+			"true",
+			"year_round",
+			"fires",
+			"pets",
+			"group_sites",
+			"playground",
+			"internet",
+			"hottub",
+			"pool",
+			"laundry",
+			"dump_sites",
+			"length",
+			"cabins",
+			"tent_sites",
+			"hookups",
+			"name",
+			"\"address\":[\"$1\",\"Moab, UT 84532\"],",
+			"\"address\":[\"(.*)\",\"Moab, UT 84532\"],",
+			"($1$2) $3-$4",
+			"$1$2",
+			"$1",
+			"\"]\n   }",
+			"\"phone\": [\n\"]\n	}",
+			"\"phone\": [\n\"",
+			"",
+			"name$1\", \"address\":\"",
+			"name$1, \"address\":\"",
+			"%%",
+			"{\n\"type\":\"hotel\",",
+			",",
+			"[1,2,3,\n,4]",
+			"\n[2,3,\n,4]",
+			"\n,4]",
+			"\n,3]",
+			"\n,2]",
+			"\n2]",
+			"\n[4,",
+			"\n[3,",
+			"\n[2,",
+			"\n[1,",
+			"\n},",
+			"]",
+			"]},",
+			"\"phone\": [",
+			"8",
+			"\",\"",
+			"",
+			"\",\"",
+			" ",
+			"true",
+			".com",
+			"",
+			"phone"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 268.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"home",
+				"partials/home.html"
+			],
+			[
+				"controll",
+				"js/controllers.js"
+			],
+			[
+				"app",
+				"css/app.less"
+			],
+			[
+				"css",
+				"css/app.css"
+			],
+			[
+				"audio",
+				"assets/audio/ngAudio5.js"
+			],
+			[
+				"app.js",
+				"js/app.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"ine",
+				"index.html"
+			],
+			[
+				"control",
+				"js/controllers.js"
+			],
+			[
+				"custom",
+				"NozzleApp/nozzle/less/custom.less"
+			],
+			[
+				".less",
+				"NozzleApp/nozzle/nozzle.less"
+			],
+			[
+				"cross",
+				"NozzleApp/angular/app/assets/crossfilter-test-rankings.json"
+			],
+			[
+				"charts",
+				"NozzleApp/angular/app/dashboard/charts.js"
+			],
+			[
+				"dashboard",
+				"NozzleApp/angular/app/dashboard/partials/dashboard.html"
+			],
+			[
+				"nggri",
+				"NozzleApp/angular/app/assets/offline/cloudflare/ajax/libs/ng-grid/ng-grid.min.js"
+			],
+			[
+				"variable",
+				"NozzleApp/nozzle/bootstrap/variables.less"
+			],
+			[
+				"nozzle",
+				"NozzleApp/nozzle/nozzle.less"
+			],
+			[
+				"whitel",
+				"NozzleApp/nozzle/less/whitelabel.less"
+			],
+			[
+				"dashaboard",
+				"NozzleApp/angular/app/dashboard/partials/dashboard.html"
+			],
+			[
+				"cros",
+				"NozzleApp/angular/app/assets/crossfilter-test-rankings.json"
+			],
+			[
+				"sidebar",
+				"NozzleApp/nozzle/less/sidebar-right.less"
+			],
+			[
+				"ng",
+				"NozzleApp/nozzle/less/ng-grid.less"
+			],
+			[
+				"user",
+				"NozzleApp/angular/app/common/user.js"
+			],
+			[
+				"navbar",
+				"NozzleApp/angular/app/layout/partials/navbar.html"
+			],
+			[
+				"rankings",
+				"NozzleApp/angular/app/assets/crossfilter-test-rankings.json"
+			],
+			[
+				"layout",
+				"NozzleApp/angular/app/layout/layout.js"
+			],
+			[
+				"crossfilt",
+				"NozzleApp/angular/app/common/crossfilters.js"
+			],
+			[
+				"ap",
+				"NozzleApp/angular/app/app.js"
+			],
+			[
+				"crossfi",
+				"NozzleApp/angular/app/common/crossfilters.js"
+			],
+			[
+				"variab",
+				"NozzleApp/nozzle/less/variables.less"
+			],
+			[
+				"crossfil",
+				"NozzleApp/angular/app/common/crossfilters.js"
+			],
+			[
+				"container",
+				"NozzleApp/angular/app/layout/partials/container.html"
+			],
+			[
+				"user.js",
+				"NozzleApp/angular/app/common/user.js"
+			],
+			[
+				"widgets",
+				"NozzleApp/angular/app/dashboard/widgets.js"
+			],
+			[
+				"nav",
+				"NozzleApp/angular/app/layout/partials/navbar.html"
+			],
+			[
+				"dashboar",
+				"NozzleApp/angular/app/dashboard/dashboard.js"
+			],
+			[
+				"d3tip",
+				"NozzleApp/angular/app/assets/lib/d3tip.js"
+			],
+			[
+				"dc.css",
+				"NozzleApp/angular/app/assets/css/dc_custom.css"
+			],
+			[
+				"crossfilters",
+				"NozzleApp/angular/app/common/crossfilters.js"
+			],
+			[
+				"side",
+				"NozzleApp/nozzle/less/sidebar-right.less"
+			],
+			[
+				"widget",
+				"NozzleApp/angular/app/dashboard/widgets.js"
+			],
+			[
+				"routes",
+				"NozzleApp/angular/app/routes.js"
+			],
+			[
+				"select2",
+				"NozzleApp/angular/app/assets/lib/select2.js"
+			],
+			[
+				"subnav",
+				"NozzleApp/angular/app/layout/partials/subnavbar.html"
+			],
+			[
+				"angular-date",
+				"NozzleApp/angular/app/assets/css/angular-datepicker.min.css"
+			],
+			[
+				"sideb",
+				"NozzleApp/angular/app/layout/partials/sidebar-right.html"
+			],
+			[
+				"angular-date-rank",
+				"NozzleApp/angular/app/assets/lib/angular-date-range-picker.min.js"
+			],
+			[
+				"angulardate",
+				"NozzleApp/angular/app/assets/lib/angular-date-range-picker.min.js"
+			],
+			[
+				"rangepic",
+				"NozzleApp/angular/app/assets/css/angular-date-range-picker.css"
+			],
+			[
+				"subn",
+				"NozzleApp/angular/app/layout/partials/subnavbar.html"
+			],
+			[
+				"variables",
+				"NozzleApp/nozzle/less/variables.less"
+			],
+			[
+				"angular",
+				"NozzleApp/angular/app/assets/lib/angular-scroll.js"
+			],
+			[
+				"",
+				"NozzleApp/angular/app/dashboard/dashboard.js"
+			],
+			[
+				"layout.",
+				"NozzleApp/angular/app/layout/layout.js"
+			],
+			[
+				"gridster",
+				"NozzleApp/angular/app/assets/lib/gridster.min.js"
+			],
+			[
+				"lessvariabl",
+				"NozzleApp/nozzle/less/variables.less"
+			],
+			[
+				"left",
+				"NozzleApp/nozzle/less/sidebar-left.less"
+			],
+			[
+				"transition",
+				"NozzleApp/nozzle/less/transitions.less"
+			],
+			[
+				"route",
+				"NozzleApp/angular/app/routes.js"
+			],
+			[
+				"cont",
+				"NozzleApp/angular/app/layout/partials/container.html"
+			],
+			[
+				"sidebar-right",
+				"NozzleApp/angular/app/layout/partials/sidebar-right.html"
+			],
+			[
+				"variabl",
+				"NozzleApp/nozzle/less/variables.less"
+			],
+			[
+				"sub",
+				"NozzleApp/angular/app/layout/partials/subnavbar.html"
+			],
+			[
+				"bootstrapmixins",
+				"NozzleApp/nozzle/bootstrap/mixins.less"
+			],
+			[
+				"bootstr",
+				"NozzleApp/nozzle/bootstrap.less"
+			],
+			[
+				"bootstrap",
+				"NozzleApp/nozzle/bootstrap.less"
+			],
+			[
+				"indexonline",
+				"NozzleApp/angular/app/index_online.html"
+			],
+			[
+				"varible",
+				"NozzleApp/nozzle/bootstrap/variables.less"
+			],
+			[
+				"common",
+				"NozzleApp/angular/app/common/common.js"
+			],
+			[
+				"nicescroll",
+				"NozzleApp/coral/assets/components/plugins/nicescroll/jquery.nicescroll.min.js"
+			],
+			[
+				"navbar.main",
+				"NozzleApp/coral/assets/components/modules/admin/menus/navbar.main.less"
+			],
+			[
+				"less/variables",
+				"NozzleApp/nozzle/less/variables.less"
+			],
+			[
+				"menus.top.less",
+				"NozzleApp/coral/assets/components/core/less/menus.top.less"
+			],
+			[
+				"menus.sidebar.kis.less",
+				"NozzleApp/coral/assets/components/modules/admin/menus/menus.sidebar.kis.less"
+			],
+			[
+				"subnat",
+				"NozzleApp/angular/app/layout/partials/subnavbar.html"
+			],
+			[
+				"nzcontainer",
+				"NozzleApp/angular/app/layout/partials/container.html"
+			],
+			[
+				"coral-",
+				"NozzleApp/nozzle/less/coral-overrides.less"
+			],
+			[
+				"nozzle.css",
+				"NozzleApp/angular/app/assets/css/nozzle.css"
+			],
+			[
+				"right",
+				"app/layout/partials/sidebar-right.html"
+			],
+			[
+				"debounce",
+				"app/common/angular-debounce.js"
+			],
+			[
+				"grister",
+				"app/common/gridster.min.js"
+			],
+			[
+				"subnar",
+				"app/layout/partials/subnavbar.html"
+			],
+			[
+				"dc.js",
+				"app/assets/lib/dc.js"
+			],
+			[
+				"angular-dc",
+				"app/common/angular-dc.js"
+			],
+			[
+				"d3-tip",
+				"app/assets/css/d3-tip.css"
+			],
+			[
+				"fake",
+				"app/assets/crossfilter-test-rankings_fake.json"
+			],
+			[
+				"jquerymin",
+				"app/offline/ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"
+			],
+			[
+				"animate",
+				"app/assets/css/animate.css"
+			],
+			[
+				"svg",
+				"app/common/jquery-svg.js"
+			],
+			[
+				"indexhtml",
+				"app/index.html"
+			],
+			[
+				"dccustom",
+				"app/assets/css/dc_custom.css"
+			],
+			[
+				"crossfilter",
+				"app/common/crossfilters.js"
+			],
+			[
+				"stackegrou",
+				"NozzleApp/angular/app/dashboard/partials/widgets/stackedGroupedBarChart.html"
+			],
+			[
+				"piechart",
+				"NozzleApp/angular/app/dashboard/partials/widgets/pieChart.html"
+			],
+			[
+				"chart.html",
+				"NozzleApp/angular/app/dashboard/partials/widgets/stackedGroupedBarChart.html"
+			],
+			[
+				"chart",
+				"NozzleApp/angular/app/dashboard/partials/widgets/pieChart.html"
+			],
+			[
+				"stackedline",
+				"NozzleApp/angular/app/dashboard/partials/widgets/stackedLineChart.html"
+			],
+			[
+				"dc.",
+				"NozzleApp/angular/app/assets/lib/dc.js"
+			],
+			[
+				"grouped",
+				"NozzleApp/angular/app/dashboard/partials/widgets/stackedGroupedBarChart.html"
+			],
+			[
+				"stacked",
+				"NozzleApp/angular/app/dashboard/partials/widgets/stackedBarChart.html"
+			],
+			[
+				"stackedgroup",
+				"NozzleApp/angular/app/dashboard/partials/widgets/stackedGroupedBarChart.html"
+			],
+			[
+				"color",
+				"NozzleApp/angular/app/common/colorbrewer.js"
+			],
+			[
+				"colorbrew",
+				"NozzleApp/angular/app/common/colorbrewer.js"
+			],
+			[
+				"index.html",
+				"NozzleApp/angular/app/index.html"
+			],
+			[
+				"barchart",
+				"NozzleApp/angular/app/dashboard/partials/widgets/barChart.html"
+			],
+			[
+				"barch",
+				"NozzleApp/angular/app/dashboard/partials/widgets/barChart.html"
+			],
+			[
+				"appcon",
+				"NozzleAPI/Controller/AppController.php"
+			],
+			[
+				"permission",
+				"NozzleApp/angular/app/common/permissions.js"
+			],
+			[
+				"api",
+				"NozzleApp/angular/app/common/api.js"
+			],
+			[
+				"reind",
+				"/Users/tannerlinsley/Desktop/moabready/www/js/services.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true
+}

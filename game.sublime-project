@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/tannerlinsley/Desktop/game"
+		}
+	],
+	"settings": {
+        "less2css": {
+            "autoCompile": true,
+            "lessBaseDir": "/css/",
+            "main_file": "app.less",
+            "minify": false,
+            "outputDir": "css/",
+            "showErrorWithWindow": true
+        }
+    }
+}
